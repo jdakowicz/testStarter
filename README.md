@@ -8,22 +8,22 @@ To install just type `yarn install` if you have yarn installed (faster way) or u
 ####npm scripts
 This package uses few npm scripts:
 
-> single test run
+- single test run
 ```
   npm run test
 ```
 
-> test and watch tests
+- test and watch tests
 ```
   npm run test:watch
 ```
 
-> test and coverage report
+- test and coverage report
 ```
   npm run coverage
 ```
 
-> lint code with standard linter
+- lint code with standard linter
 ```
   npm run lint
 ```
