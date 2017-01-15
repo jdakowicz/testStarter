@@ -2,16 +2,28 @@
 
 The example of simple TDD environment. It's solving an popular fizzbuzz exercise.
 
+## Installaiton
+To install just type `yarn install` if you have yarn installed (faster way) or use npm `npm install`
+
 ####npm scripts
 This package uses few npm scripts:
-> single test run
-> test and watch tests
-> test and coverage report
-> lint code with standard linter
 
+> single test run
 ```
-	> npm run test
-	> npm run test:watch
-	> npm run coverage
-	> npm run lint
+  npm run test
+```
+
+> test and watch tests
+```
+  npm run test:watch
+```
+
+> test and coverage report
+```
+  npm run coverage
+```
+
+> lint code with standard linter
+```
+  npm run lint
 ```
